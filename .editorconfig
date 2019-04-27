@@ -1,0 +1,20 @@
+#Arquivo inicial e global do editorconfig
+root = true
+
+#configuração para todos os tipos de arquivos
+[*]
+
+#A indentação será feita por meio da tecla de espaço
+indent_style = space
+
+#A cada linha 2 espaços de indentação
+indent_size = 2
+
+#Tipo da codificação dos caracteres
+charset = utf-8
+
+#Remove os espaços em branco ao final das linhas
+trim_trailing_whitespace = true
+
+#Insere uma linha em branco ao final do arquivo
+insert_final_newline = true
